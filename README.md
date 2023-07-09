@@ -1,4 +1,4 @@
-Hi👋, i'm Niusha Asadzadeh from iran.
+Hi👋, i'm Niusha Asadzadeh a back-end developer from iran.
 
 <!--
 **niusha-asadzadeh/niusha-asadzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
